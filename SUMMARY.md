@@ -23,7 +23,6 @@
   * [TowerSwap Token](tokenomic/towerswap-token.md)
   * [Token Allocation Details](tokenomic/token-allocation-details.md)
   * [Token Sale](tokenomic/token-sale.md)
-* [Team](team/README.md)
-  * [Tower Team](team/tower-team.md)
+* [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Airdrop](airdrop.md)

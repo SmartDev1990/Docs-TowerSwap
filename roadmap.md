@@ -8,7 +8,7 @@ description: Project Roadmap & History
 
 ### **2022**
 
-* Cadeceus blockchain identification
+* Caduceus blockchain identification
 * Ideas and Concepts
 * Website and whitepaper development
 * Dex development and testnet integration
@@ -30,8 +30,8 @@ description: Project Roadmap & History
 
 * Tier1 TW token Exchange listing
 * Launch NFT Marketplace
-* Launch Cadeceus Bridge
-* Launch Cadeceus LaunchPad
+* Launch Caduceus Bridge
+* Launch Caduceus LaunchPad
 
 ### Q3 2023
 

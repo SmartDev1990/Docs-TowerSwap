@@ -1,5 +1,5 @@
 ---
-description: TowerSwap. The new DeFi AMM on Cadeceus Blockchain
+description: TowerSwap. The new DeFi AMM on Caduceus Blockchain
 ---
 
 # TowerSwap Intro
@@ -16,7 +16,7 @@ Unlike all the known CeFi platforms and exchanges like Binance or Coinbase, Towe
 
 ### Lower Fees
 
-The Cadeceus blockchain is one of the blockchains with the lowest transaction fees, transaction fees almost touch 0$.
+The Caduceus blockchain is one of the blockchains with the lowest transaction fees, transaction fees almost touch 0$.
 
 
 

@@ -14,7 +14,7 @@ Smart Contract :&#x20;
 
 Total Supply : 12.000.000 TW
 
-Blockchain : Cadeceus (CMP)
+Blockchain : Caduceus (CMP)
 
 
 

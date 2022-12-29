@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/head1.png" alt=""><figcaption></figcaption></figure>
 
-TowerSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of TowerSwap. TowerSwap is the leading AMM on the Cadeceus Chain (CMP).
+TowerSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of TowerSwap. TowerSwap is the leading AMM on the Caduceus Chain (CMP).
 
 The TowerSwap Exchange offers several features that support decentralized trading:
 
