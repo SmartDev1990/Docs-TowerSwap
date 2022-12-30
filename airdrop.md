@@ -26,7 +26,7 @@ Complete the task by joining the requested telegram. You cannot continue the sec
 
 <figure><img src=".gitbook/assets/tw.png" alt=""><figcaption></figcaption></figure>
 
-### 3. TESTNET TASK <mark style="color:blue;">(daily task)</mark>
+### 3. TESTNET TASK <mark style="color:blue;">(weekly task)</mark>
 
 <figure><img src=".gitbook/assets/testnet.png" alt=""><figcaption></figcaption></figure>
 
@@ -90,9 +90,9 @@ Reward will be distributed a week after the <mark style="color:blue;">**Tower to
 
 Participants only have one chance to get a reward through this task.
 
-&#x20; 2\. <mark style="color:blue;">Daily Task</mark>&#x20;
+&#x20; 2\. <mark style="color:blue;">weekly Task</mark>&#x20;
 
-Participants can take part in this task every day for additional rewards.
+Participants can take part in this task every weeks for additional rewards.
 
 
 
