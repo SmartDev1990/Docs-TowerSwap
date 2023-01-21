@@ -50,7 +50,7 @@ Screenshot Example
 
 <figure><img src=".gitbook/assets/liq.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;3\. <mark style="color:yellow;"></mark> [<mark style="color:yellow;">Faming</mark>](#user-content-fn-3)[^3]<mark style="color:yellow;"></mark>
+&#x20;3\. <mark style="color:yellow;"></mark> [<mark style="color:yellow;">Farming</mark>](#user-content-fn-3)[^3]<mark style="color:yellow;"></mark>
 
 _After you add liquidity. then use your LP token to get a reward on the farming page. Then take a screenshot and fill in the third task_
 
