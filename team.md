@@ -8,7 +8,7 @@ _<mark style="background-color:green;">**Nara ( Founder)**</mark>_
 
 _<mark style="color:green;">6 years of experience in the crypto world. works as a crypto analyst and developer.</mark>_
 
-[Linkedin](https://linkedin/in/nandayusra), [Telegram](https://t.me/towerdev).
+[Linkedin](https://linkedin.com/in/na-ra), [Telegram](https://t.me/towerdev).
 
 _<mark style="background-color:green;">**Yakub Lekan (Co-Founder)**</mark>_
 

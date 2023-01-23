@@ -8,5 +8,5 @@ Token Sales
 
 Token Price
 
-* Token Sale Price : NA
-* Token Price : 1 TW = NA
+* Token Sale Price : 1 TW = 0.07 USD
+* Token Price : 1 TW = 0.1 USD
