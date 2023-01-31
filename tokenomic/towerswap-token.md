@@ -38,7 +38,9 @@ TW token will be used as
 
 _There are several ways to get TW tokens._
 
-By participating in token sales
+By participating in token
+
+&#x20;sales
 
 By purchasing when the token has been launched on platform.
 
