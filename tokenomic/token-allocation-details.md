@@ -18,38 +18,29 @@ Initial Price : 0.5 $
 
 ## Alloction :
 
-<mark style="color:green;">Initial Distribution :</mark>
+Initial Distribution :
 
 Token Sales :  9%
 
-Team : 2%
+Team : 5% (Monthly harvest up to 10 months)
 
 First Airdrop : 3%
 
-Initial Liquidity : 6%v
+Liquidity : 7%
 
-<mark style="color:green;">Reserve Tokens Distribution :</mark>
+Platform Development : 13%
 
-Reserve : 16%
+Marketing Locked Tokens : 8% (Monthly harvest up to 15 months)
 
-Event : 4%
+Event Campaign : 4%
 
 Future Investor : 10%
 
-CEX Liquidity : 7%
+CEX Liquidity : 6%
 
-Holders Incentive : 10%
+Holders Incentive : 10% (Monthly harvest up to 36 months)
 
-Staking Reward : 30%
+Farm & Staking Reward : 22% (Locked)
 
 Partner : 3%
 
-
-
-### Schematic Allocations
-
-<figure><img src="../.gitbook/assets/sc1.png" alt=""><figcaption></figcaption></figure>
-
-### Allocation by Chart
-
-<figure><img src="../.gitbook/assets/sc3.png" alt=""><figcaption></figcaption></figure>

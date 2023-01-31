@@ -12,7 +12,7 @@ Go to the Exchange Page and click Unlock Wallet and make sure you're on the CMP 
 
 Click on the dropdown menu in the "From" section to choose the token you want to trade, after ensuring it's one of the tokens you actually hold.
 
-<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Caption:
 
