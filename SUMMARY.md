@@ -12,7 +12,7 @@
     * [Remove Liquidity](product/liquidity/remove-liquidity.md)
   * [👨🌾 Yield Farming](product/yield-farming/README.md)
     * [🍬 How to Farm](product/yield-farming/how-to-farm.md)
-  * [⚙ Staking Pools](product/staking-pools/README.md)
+  * [⚙ Staking Pools](product/staking-pools.md)
     * [How to stake](product/staking-pools/how-to-stake.md)
     * [How to harvest](product/staking-pools/how-to-harvest.md)
   * [🧸 NFT Marketplace](product/nft-marketplace.md)
