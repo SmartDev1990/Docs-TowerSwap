@@ -6,7 +6,7 @@ This is the initial screen when you open the liquidity page. Then click **+ Add 
 
 After that you will be redirected to the following page.
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 Then, click **Select a currency**
 
@@ -22,7 +22,7 @@ After the token is added. you can click <mark style="color:green;">**supply**</m
 
 After everything is finished. you will be directed to the following page. if you are sure to increase your liquidity, then click <mark style="background-color:green;">**Confirm Supply**</mark>.
 
-<figure><img src="../../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 This is LP token estimated you will received after adding liquidity.
 
@@ -32,7 +32,7 @@ After Confirm Supply, you will get notification on your wallet to confirm the tr
 
 Add LP token to metamask by clicking **Add**
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 Then, LP token overview on your wallet.
 

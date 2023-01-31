@@ -8,7 +8,7 @@ Click pools details to open pools
 
 Click Connet wallet
 
-<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 After your wallet was connected. you will see the "Stake" button.
 
@@ -20,6 +20,6 @@ Click "Stake" button and you will see the a popup to stake
 
 Enter the amount of TW you want to stake then click confirm and approve in your wallet. After you give permission in your wallet. you will see the number of tokens and rewards you get in the stake and harvest column&#x20;
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
 
-Done, the staking pool has been turned on. Let your token work for you and enjoy the results :tada:
+Done, the staking pool has been turned on. _<mark style="color:green;">**Let your token work for you and enjoy the results**</mark>_ :tada:
