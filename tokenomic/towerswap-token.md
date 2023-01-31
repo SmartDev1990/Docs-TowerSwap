@@ -4,25 +4,53 @@ description: Tower Token details.
 
 # TowerSwap Token
 
-Token Name : TowerSwap Token
+### What is TowerSwap Token?
 
-Token Symbol : TW&#x20;
+Similar to Uniswap and SushiSwap, TowerSwap makes use of the AMM exchange model which relies on liquidity pools to facilitate trades.
 
-Decimal : 18
+In depositing funds to a liquidity pool, users or liquidity providers are compensated with the native token called TW (TowerSwap Token).
 
-Smart Contract :&#x20;
-
-Total Supply : 12.000.000 TW
-
-Blockchain : Cadeceus (CMP)
+So, TowerSwap Token is a Native and Utility token created specifically for the operation of the TowerSwap platform.
 
 
 
-### TowerSwap Token Utility
+### TowerSwap Token Use Case
 
-TowerSwap token (TW) is the ultimate counterpart after CMP (Token blockchain). Some of the TW token functions are as follows.
 
-* Reward Token in farming
-* Staking token in staking page to earn another token.
-* CMP and TW token will used as main token to purchase new token on launchpad.
+
+Native token platforms
+
+In the TowerSwap platform, there are two tokens that will be used as the main token, namely the CMP Token (Native Blockchain) and the TW token as the native token platform.
+
+TW token will be used as
+
+• Main pair of native chain tokens (CMP/TW).
+
+• Staking and Liquidity mining rewards.
+
+• Governance Tokens (Vote).
+
+• More use cases will be updated as the APP progresses.
+
+
+
+**How to get TW tokens?**
+
+_There are several ways to get TW tokens._
+
+By participating in token
+
+&#x20;sales
+
+By purchasing when the token has been launched on platform.
+
+By participating in events such as Airdrop or giveaway.
+
+
+
+### Schematic utilities&#x20;
+
+<figure><img src="../.gitbook/assets/sc2.png" alt=""><figcaption></figcaption></figure>
+
+
 
