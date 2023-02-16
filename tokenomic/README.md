@@ -6,13 +6,13 @@ description: Tower Token details.
 
 Token Name : TowerSwap Token
 
-Token Symbol : TW&#x20;
+Token Symbol : TWS
 
 Decimal : 18
 
 Smart Contract :&#x20;
 
-Total Supply : 12.000.000 TW
+Total Supply : 12.000.000 TWS
 
 Blockchain : Caduceus (CMP)
 

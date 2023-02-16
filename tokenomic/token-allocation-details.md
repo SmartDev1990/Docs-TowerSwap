@@ -1,22 +1,18 @@
 ---
-description: 'Total Supply : 12.000.000 TWS'
+description: 'Total Supply : 12.000.000 TW'
 ---
 
 # Token Allocation Details
 
 Token Name : TowerSwap&#x20;
 
-Token Symbol : TWS
+Token Symbol : TW&#x20;
 
 Decimal : 18 Max&#x20;
 
 Supply : 12.000.000&#x20;
 
 Initial Price : 0.5 $
-
-Smart Contract : 0x49ca6d0e819e83471575bd4e140ab9a9f4e954d5
-
-Explorer : [https://mainnet.scan.caduceus.foundation/token/0x49ca6d0e819e83471575bd4e140ab9a9f4e954d5#](https://mainnet.scan.caduceus.foundation/token/0x49ca6d0e819e83471575bd4e140ab9a9f4e954d5)
 
 
 
