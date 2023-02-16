@@ -1,12 +1,12 @@
 ---
-description: 'Total Supply : 12.000.000 TW'
+description: 'Total Supply : 12.000.000 TWS'
 ---
 
 # Token Allocation Details
 
 Token Name : TowerSwap&#x20;
 
-Token Symbol : TW&#x20;
+Token Symbol : TWS
 
 Decimal : 18 Max&#x20;
 
