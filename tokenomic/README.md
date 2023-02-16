@@ -6,13 +6,13 @@ description: Tower Token details.
 
 Token Name : TowerSwap Token
 
-Token Symbol : TWS
+Token Symbol : TW&#x20;
 
 Decimal : 18
 
 Smart Contract :&#x20;
 
-Total Supply : 12.000.000 TWS
+Total Supply : 12.000.000 TW
 
 Blockchain : Caduceus (CMP)
 
@@ -20,9 +20,9 @@ Blockchain : Caduceus (CMP)
 
 ### TowerSwap Token Utility
 
-TowerSwap token (TWS) is the ultimate counterpart after CMP (Token blockchain). Some of the TW token functions are as follows.
+TowerSwap token (TW) is the ultimate counterpart after CMP (Token blockchain). Some of the TW token functions are as follows.
 
 * Reward Token in farming
 * Staking token in staking page to earn another token.
-* CMP and TWS token will used as main token to purchase new token on launchpad.
+* CMP and TW token will used as main token to purchase new token on launchpad.
 
