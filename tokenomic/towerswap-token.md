@@ -8,7 +8,7 @@ description: Tower Token details.
 
 Similar to Uniswap and SushiSwap, TowerSwap makes use of the AMM exchange model which relies on liquidity pools to facilitate trades.
 
-In depositing funds to a liquidity pool, users or liquidity providers are compensated with the native token called TWS (TowerSwap Token).
+In depositing funds to a liquidity pool, users or liquidity providers are compensated with the native token called TW (TowerSwap Token).
 
 So, TowerSwap Token is a Native and Utility token created specifically for the operation of the TowerSwap platform.
 
@@ -24,7 +24,7 @@ In the TowerSwap platform, there are two tokens that will be used as the main to
 
 TW token will be used as
 
-• Main pair of native chain tokens (CMP/TWS).
+• Main pair of native chain tokens (CMP/TW).
 
 • Staking and Liquidity mining rewards.
 

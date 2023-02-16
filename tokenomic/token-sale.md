@@ -2,7 +2,7 @@
 
 Token Sales
 
-Total Token for sales : 1.000.000 TWS
+Total Token for sales : 920.000 TWS
 
 * Private Sale Phase 1 : 100.000 TWS
 * Private Sale Phase II : 120.000 TWS
