@@ -1,8 +1,8 @@
 # Table of contents
 
 * [TowerSwap Intro](README.md)
-* [Cadeceus Network (CMP)](cadeceus-network-cmp/README.md)
-  * [✅ Set Metamask Network](cadeceus-network-cmp/set-metamask-network.md)
+* [Caduceus Network (CMP)](caduceus-network-cmp/README.md)
+  * [✅ Set Metamask Network](caduceus-network-cmp/set-metamask-network.md)
 * [Product](product/README.md)
   * [🔄 Exchange](product/exchange/README.md)
     * [Token Swap](product/exchange/token-swap.md)

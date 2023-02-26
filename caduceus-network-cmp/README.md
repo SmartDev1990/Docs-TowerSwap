@@ -1,12 +1,12 @@
-# Cadeceus Network (CMP)
+# Caduceus Network (CMP)
 
-## What is Cadeceus Network?
+## What is Caduceus Network?
 
 Caduceus evolves the open source software paradigm by implementing blockchain alongside its rich library of components - this facilitates the building of highly performant Metaverse infrastructure that is trustworthy, efficient, secure and dependable. Caduceus provides numerous essential infrastructures for the metaverse.
 
 ## CMP Token
 
-CadeCeus Token (CMP) is main pair in Towerswap, Everyone will use CMP token to swap with other Token.
+CaduCeus Token (CMP) is main pair in Towerswap, Everyone will use CMP token to swap with other Token.
 
 CMP token is the native token used within the Caduceus ecosystem to pay for fees and to secure the network of the platform.
 
@@ -16,7 +16,7 @@ CMP token is the native token used within the Caduceus ecosystem to pay for fees
 
 ### Transcation Fees
 
-Transaction fees at Cadeceus are only around **0.0001$**
+Transaction fees at Caduceus are only around **0.0001$**
 
 ### Know More
 

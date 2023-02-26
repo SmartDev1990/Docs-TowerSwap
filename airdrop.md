@@ -78,9 +78,9 @@ Claim testnet token here : [https://dev.caduceus.foundation/testNetwork/](https:
 
 ## Reward&#x20;
 
-<mark style="color:yellow;">**The reward ratio is 10 XP = 1 TW Mainnet.**</mark>
+<mark style="color:yellow;">**The reward ratio is 10 XP = 1 TWS Mainnet.**</mark>
 
-Reward will be distributed a week after the <mark style="color:blue;">**Tower token mainnet**</mark> is launched on Towerswap dex.
+Reward will be distributed 3 week after the <mark style="color:blue;">**Tower token mainnet**</mark> is launched on Towerswap dex.
 
 
 
