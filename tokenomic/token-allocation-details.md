@@ -22,29 +22,5 @@ Explorer : [https://mainnet.scan.caduceus.foundation/token/0x49ca6d0e819e8347157
 
 ## Alloction :
 
-Initial Distribution :
-
-Token Sales :  9%
-
-Team : 5% (Monthly harvest up to 10 months)
-
-First Airdrop : 3%
-
-Liquidity : 7%
-
-Platform Development : 13%
-
-Marketing Locked Tokens : 8% (Monthly harvest up to 15 months)
-
-Event Campaign : 4%
-
-Future Investor : 10%
-
-CEX Liquidity : 6%
-
-Holders Incentive : 10% (Monthly harvest up to 36 months)
-
-Farm & Staking Reward : 22% (Locked)
-
-Partner : 3%
+<table><thead><tr><th>Allocation</th><th align="center">Percent</th><th align="center">Lock</th><th data-hidden></th></tr></thead><tbody><tr><td>Token Sale</td><td align="center">9%</td><td align="center"></td><td></td></tr><tr><td>Team</td><td align="center">5%</td><td align="center">12 Month</td><td></td></tr><tr><td>First Airdrop</td><td align="center">3%</td><td align="center"></td><td></td></tr><tr><td>Liquidity</td><td align="center">7%</td><td align="center">60 Month</td><td></td></tr><tr><td>Development</td><td align="center">13%</td><td align="center"></td><td></td></tr><tr><td>Marketing Tokens</td><td align="center">8%</td><td align="center">12 Month</td><td></td></tr><tr><td>Partner and Advisor</td><td align="center">15%</td><td align="center"></td><td></td></tr><tr><td>CEX Liquidity</td><td align="center">6%</td><td align="center"></td><td></td></tr><tr><td>Incentive</td><td align="center">7%</td><td align="center">12 Month</td><td></td></tr><tr><td>Farm and Staking</td><td align="center">27%</td><td align="center">60 Month</td><td></td></tr></tbody></table>
 
