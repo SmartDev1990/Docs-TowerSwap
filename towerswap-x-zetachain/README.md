@@ -7,3 +7,4 @@ description: >-
 
 # TowerSwap X ZetaChain
 
+<figure><img src="../.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>

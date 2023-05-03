@@ -1,7 +1,5 @@
 # Testnet Integration
 
-<figure><img src="../.gitbook/assets/banner.png" alt="" width="563"><figcaption></figcaption></figure>
-
 **Towerswap now integrated with Zetachain testnet**
 
 **Swap In Testnet**
