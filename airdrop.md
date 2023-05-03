@@ -34,7 +34,7 @@ Complete all of this task to get testnet reward.&#x20;
 
 Guide :&#x20;
 
-1. <mark style="color:yellow;"></mark>[<mark style="color:yellow;">Swap</mark>. ](#user-content-fn-1)[^1]
+1. [<mark style="color:yellow;">Swap</mark>. ](#user-content-fn-1)[^1]
 
 _After you buy or sell tokens on the swap page. take the Txhash of the transaction you made and fill it into the first task._
 
@@ -42,7 +42,7 @@ Get TXhash here
 
 <figure><img src=".gitbook/assets/tx (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;__ 2.  [<mark style="color:yellow;">Add Liquidity.</mark>](#user-content-fn-2)[^2]<mark style="color:yellow;"></mark>
+&#x20;2\.  [<mark style="color:yellow;">Add Liquidity.</mark>](#user-content-fn-2)[^2]
 
 &#x20;_After the addition of liquidity. take a screenshot and fill it into the second task._
 
@@ -50,7 +50,7 @@ Screenshot Example
 
 <figure><img src=".gitbook/assets/liq.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;3\. <mark style="color:yellow;"></mark> [<mark style="color:yellow;">Farming</mark>](#user-content-fn-3)[^3]<mark style="color:yellow;"></mark>
+&#x20;3\. [<mark style="color:yellow;">Farming</mark>](#user-content-fn-3)[^3]
 
 _After you add liquidity. then use your LP token to get a reward on the farming page. Then take a screenshot and fill in the third task_
 
@@ -72,7 +72,7 @@ Fill your feedback here :&#x20;
 
 <figure><img src=".gitbook/assets/fe.png" alt=""><figcaption></figcaption></figure>
 
-To join <mark style="color:green;">**Testnet Airdrop,**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> You will need CMP Testnet token.&#x20;
+To join <mark style="color:green;">**Testnet Airdrop,**</mark> You will need CMP Testnet token.&#x20;
 
 Claim testnet token here : [https://dev.caduceus.foundation/testNetwork/](https://dev.caduceus.foundation/testNetwork/)
 

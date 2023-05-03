@@ -8,11 +8,11 @@ Click pools details to open pools
 
 Click Connet wallet
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
 
 After your wallet was connected. you will see the "Stake" button.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 Click "Stake" button and you will see the a popup to stake
 

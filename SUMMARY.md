@@ -28,3 +28,5 @@
 * [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Airdrop](airdrop.md)
+* [TowerSwap X ZetaChain](towerswap-x-zetachain/README.md)
+  * [Testnet Integration](towerswap-x-zetachain/testnet-integration.md)

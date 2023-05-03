@@ -20,7 +20,7 @@ Then, click <mark style="color:green;">**Enable**</mark> if this is first time r
 
 Click <mark style="color:green;">**Confirm**</mark> and confirm your wallet.
 
-**Done** :tada:****
+**Done** :tada:
 
 _`Your Token was added to your wallet and LP token was removed from your wallet.`_
 

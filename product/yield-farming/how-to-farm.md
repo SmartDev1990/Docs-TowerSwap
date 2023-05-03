@@ -10,7 +10,7 @@ Go to Farm Page [<mark style="color:blue;">https://testnet.towerswap.finance/far
 
 <figure><img src="../../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
 
-**Confirm & Done** :tada:****
+**Confirm & Done** :tada:
 
 ### How To Harvest (Claim reward)?
 
