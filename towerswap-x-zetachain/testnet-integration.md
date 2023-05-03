@@ -1,14 +1,14 @@
 # Testnet Integration
 
-**Towerswap now integrated with Zetachain testnet**
+**Towerswap now integrates with Zetachain testnet**
 
 **Swap In Testnet**
 
-Towerswap platform now support zetachain testnet by SWAP and Liquidity Pools.
+Towerswap platform now support the zetachain testnet by trading/swapping and Providing liquidity pools.
 
 You can now try to buy TWST (towerswap testnet token) with Zeta token.&#x20;
 
-Go to https://towerswap.finance and switch the wallet to Zetachain.
+Go to [https://towerswap.finance](https://towerswap.finance/swap?chainId=7001) and switch the wallet to Zetachain.
 
 <figure><img src="../.gitbook/assets/1 (2).png" alt="" width="243"><figcaption></figcaption></figure>
 
