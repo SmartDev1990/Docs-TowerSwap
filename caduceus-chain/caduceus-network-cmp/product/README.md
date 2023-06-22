@@ -4,7 +4,7 @@
 
 ### [Farming](yield-farming/)
 
-### [Staking](staking-pools.md)
+### [Staking](staking-pools/)
 
 ### [NFT Marketplace](nft-marketplace.md)
 

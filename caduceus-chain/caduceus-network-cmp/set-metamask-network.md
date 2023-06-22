@@ -4,7 +4,7 @@ description: Setting your network to start using TowerSwap.
 
 # ✅ Set Metamask Network
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set CMP Mainnet&#x20;
 

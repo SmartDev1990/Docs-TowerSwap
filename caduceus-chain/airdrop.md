@@ -1,6 +1,6 @@
 # Airdrop
 
-<figure><img src=".gitbook/assets/head2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/head2.png" alt=""><figcaption></figcaption></figure>
 
 ## TowerSwap Testnet Airdrop
 
@@ -18,17 +18,17 @@ How to join Airdrop?
 
 
 
-<figure><img src=".gitbook/assets/tg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tg.png" alt=""><figcaption></figcaption></figure>
 
 Complete the task by joining the requested telegram. You cannot continue the second task if the first task is not completed.
 
 ### 2. Follow Twitter  <mark style="color:blue;">(once task)</mark>
 
-<figure><img src=".gitbook/assets/tw.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tw.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. TESTNET TASK <mark style="color:blue;">(weekly task)</mark>
 
-<figure><img src=".gitbook/assets/testnet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/testnet.png" alt=""><figcaption></figcaption></figure>
 
 Complete all of this task to get testnet reward.&#x20;
 
@@ -40,7 +40,7 @@ _After you buy or sell tokens on the swap page. take the Txhash of the transacti
 
 Get TXhash here
 
-<figure><img src=".gitbook/assets/tx (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tx (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2\.  [<mark style="color:yellow;">Add Liquidity.</mark>](#user-content-fn-2)[^2]
 
@@ -48,7 +48,7 @@ Get TXhash here
 
 Screenshot Example
 
-<figure><img src=".gitbook/assets/liq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/liq.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;3\. [<mark style="color:yellow;">Farming</mark>](#user-content-fn-3)[^3]
 
@@ -56,13 +56,13 @@ _After you add liquidity. then use your LP token to get a reward on the farming 
 
 Screenshot example
 
-<figure><img src=".gitbook/assets/farm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/farm.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Referral  <mark style="color:blue;">(daily task)</mark>
 
 Invite your friend to join airdrop and get reward.&#x20;
 
-<figure><img src=".gitbook/assets/in.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/in.png" alt=""><figcaption></figcaption></figure>
 
 ### 5.  FeedBack  <mark style="color:blue;">(once task)</mark>
 
@@ -70,7 +70,7 @@ Give your feedback regarding our Dex paltform, Tell us about issue and anything 
 
 Fill your feedback here :&#x20;
 
-<figure><img src=".gitbook/assets/fe.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fe.png" alt=""><figcaption></figcaption></figure>
 
 To join <mark style="color:green;">**Testnet Airdrop,**</mark> You will need CMP Testnet token.&#x20;
 

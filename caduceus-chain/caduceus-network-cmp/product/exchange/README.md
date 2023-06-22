@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-<figure><img src="../../.gitbook/assets/head1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/head1.png" alt=""><figcaption></figcaption></figure>
 
 TowerSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of TowerSwap. TowerSwap is the leading AMM on the Caduceus Chain (CMP).
 

@@ -48,7 +48,7 @@ By participating in events such as Airdrop or giveaway.
 
 ### Schematic utilities&#x20;
 
-<figure><img src="../.gitbook/assets/sc2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sc2.png" alt=""><figcaption></figcaption></figure>
 
 
 

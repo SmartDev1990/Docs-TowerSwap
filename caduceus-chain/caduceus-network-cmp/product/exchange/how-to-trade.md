@@ -8,11 +8,11 @@ description: After setting up the network, now you can start to trade
 
 Go to the Exchange Page and click Unlock Wallet and make sure you're on the CMP Mainnet or Testnet network.&#x20;
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on the dropdown menu in the "From" section to choose the token you want to trade, after ensuring it's one of the tokens you actually hold.
 
-<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Caption:
 
@@ -26,27 +26,27 @@ Click on the dropdown menu in the "From" section to choose the token you want to
 
 **Swap** : If you are sure of the choice of tokens you want to buy or sell, click **Swap** and confirm your wallet
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 Click **Confirm Swap** and your wallet will notice about transaction, then confirm your transaction on your wallet.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 After confirming the wallet is complete, you will receive a notification like the following.
 
-<figure><img src="../../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
 
 Add token to your wallet by clicking **Add**
 
-<figure><img src="../../.gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Done** :tada:
 

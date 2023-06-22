@@ -4,7 +4,7 @@ description: Earn token by stake LP token.
 
 # 👨🌾 Yield Farming
 
-<figure><img src="../../.gitbook/assets/head3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/head3.png" alt=""><figcaption></figcaption></figure>
 
 ### What is Yield Farming?
 

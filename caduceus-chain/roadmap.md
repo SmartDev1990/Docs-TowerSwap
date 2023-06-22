@@ -4,7 +4,7 @@ description: Project Roadmap & History
 
 # Roadmap
 
-<figure><img src=".gitbook/assets/head6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/head6.png" alt=""><figcaption></figcaption></figure>
 
 ### **2022**
 

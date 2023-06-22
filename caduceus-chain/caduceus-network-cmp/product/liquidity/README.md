@@ -6,7 +6,7 @@ description: >-
 
 # 📦 Liquidity
 
-<figure><img src="../../.gitbook/assets/head4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/head4.png" alt=""><figcaption></figcaption></figure>
 
 ## LP Tokens
 
