@@ -17,7 +17,7 @@
   * [🧸 NFT Marketplace](product/nft-marketplace.md)
 * [📝 Tokenomic](tokenomic/README.md)
   * [TowerSwap Token](tokenomic/towerswap-token.md)
-  * [Token Allocation Details](tokenomic/token-allocation-details.md)
+  * [Supply and Allocations](tokenomic/supply-and-allocations.md)
   * [Token Sale](tokenomic/token-sale.md)
 * [📆 RoadMap](roadmap.md)
 * [🧑🏫 Team](team.md)
