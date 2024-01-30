@@ -14,7 +14,7 @@ Smart Contract :&#x20;
 
 Total Supply : 12.000.000 TWS
 
-Blockchain : Caduceus (CMP)
+Blockchain : BNB (Main Chain)
 
 
 
@@ -24,5 +24,7 @@ TowerSwap token (TWS) is the ultimate counterpart after CMP (Token blockchain). 
 
 * Reward Token in farming
 * Staking token in staking page to earn another token.
-* CMP and TWS token will used as main token to purchase new token on launchpad.
+* Payment token in [TowerPad](https://launch.towerswap.finance)
+* Governance Token[\
+  ](https://launch.towerswap.finance)
 
