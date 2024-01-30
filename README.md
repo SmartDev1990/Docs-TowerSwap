@@ -1,10 +1,24 @@
 ---
 description: TowerSwap. The new DeFi AMM on Caduceus Blockchain
+cover: .gitbook/assets/TwitterHeader.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# TowerSwap Intro
-
-<figure><img src=".gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
+# 📘 TowerSwap Intro
 
 ## Swap
 

@@ -1,4 +1,4 @@
-# Team
+# 🧑🏫 Team
 
 The _**TowerSwap team**_ works closely with the _**Cadeceus team**_ to carry out development and marketing projects towards a better future.
 

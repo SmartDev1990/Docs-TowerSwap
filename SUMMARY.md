@@ -1,7 +1,7 @@
 # Table of contents
 
-* [TowerSwap Intro](README.md)
-* [Product](product/README.md)
+* [📘 TowerSwap Intro](README.md)
+* [🔂 Product](product/README.md)
   * [🔄 Exchange](product/exchange/README.md)
     * [Token Swap](product/exchange/token-swap.md)
     * [How to trade](product/exchange/how-to-trade.md)
@@ -15,8 +15,8 @@
     * [How to harvest](product/staking-pools/how-to-harvest.md)
   * [💎 Launchpad](product/launchpad.md)
   * [🧸 NFT Marketplace](product/nft-marketplace.md)
-* [Tokenomic](tokenomic/README.md)
+* [📝 Tokenomic](tokenomic/README.md)
   * [TowerSwap Token](tokenomic/towerswap-token.md)
   * [Token Allocation Details](tokenomic/token-allocation-details.md)
   * [Token Sale](tokenomic/token-sale.md)
-* [Team](team.md)
+* [🧑🏫 Team](team.md)

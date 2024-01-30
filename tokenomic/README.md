@@ -2,7 +2,7 @@
 description: Tower Token details.
 ---
 
-# Tokenomic
+# 📝 Tokenomic
 
 Token Name : TowerSwap Token
 
