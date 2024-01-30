@@ -24,13 +24,15 @@ In the TowerSwap platform, there are two tokens that will be used as the main to
 
 TW token will be used as
 
-• Main pair of native chain tokens (CMP/TWS).
+\~ Main pair&#x20;
 
-• Staking and Liquidity mining rewards.
+\~ Staking and Liquidity mining rewards.
 
-• Governance Tokens (Vote).
+\~ Governance Tokens (Vote).
 
-• More use cases will be updated as the APP progresses.
+\~ Native DEX Tokens
+
+\~ Launchpad Token Payment
 
 
 
@@ -48,7 +50,7 @@ By participating in events such as Airdrop or giveaway.
 
 ### Schematic utilities&#x20;
 
-<figure><img src="../../.gitbook/assets/sc2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sc2.png" alt=""><figcaption></figcaption></figure>
 
 
 
