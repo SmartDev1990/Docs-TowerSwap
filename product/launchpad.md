@@ -25,7 +25,7 @@ TowerPad is Now LIVE on few blockchain.\
 \
 **Support Chain :**
 
-1. BSC
+1. BASE
 2. ZetaChain
 3. Mantle
 4. Shardeum (Testnet)
@@ -39,7 +39,7 @@ TowerPad is Now LIVE on few blockchain.\
 
 Listing Fees
 
-1. BSC (0.25 BNB)
+1. BASE (0.05 BASE)
 2. ZETA (N/A)
 3. MANTLE (100 MNT)
 4. SHARDEUM (N/A)
