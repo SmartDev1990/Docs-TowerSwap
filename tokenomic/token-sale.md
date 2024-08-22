@@ -2,15 +2,11 @@
 
 ### Token Sales
 
-Total Token for sales : 45,000,000/300,000,000 TWS
+Total Token for sales : 94,500,000/350,000,000 TWS
 
-* Private Sale : 14,000,000 TWS
-* Public Sale :30,000,000 TW
+* Token Sale : 94,500,000 TWS
 
-Token Price
-
-* Private Sale : 0,0045$ per TWS
-* Public Sale : 0,0062$ per TWS
+Token Price 0,04$ per TWS
 
 
 
