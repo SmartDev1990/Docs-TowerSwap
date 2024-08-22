@@ -24,7 +24,7 @@ TowerSwap token (TWS) is the ultimate counterpart after ETH (Token blockchain). 
 
 * Reward Token in farming
 * Staking token in staking page to earn another token.
-* Payment token in [TowerPad](https://launch.towerswap.finance)
+* Payment token in TowerPad
 * Governance Token[\
   ](https://launch.towerswap.finance)
 
