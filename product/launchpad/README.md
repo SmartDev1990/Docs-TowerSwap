@@ -17,7 +17,7 @@ layout:
 
 # 💎 Launchpad
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-31 000106.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-01-31 000106.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -27,24 +27,19 @@ TowerPad is Now LIVE on few blockchain.\
 
 1. BASE
 2. ZetaChain
-3. Mantle
-4. Shardeum (Testnet)
 
 #### Accept Payment
 
 1. Native Token (Each Chain)
 2. Tower Token
 3. USDT
-4. USDC
 
 Listing Fees
 
-1. BASE (0.05 BASE)
+1. BASE (0.05 ETH)
 2. ZETA (N/A)
-3. MANTLE (100 MNT)
-4. SHARDEUM (N/A)
-5. TOWER TOKEN (N/A)
-6. USDT (100)
-7. USDC (100)
+3. TOWER TOKEN (N/A)
+4. USDT (100)
+5. USDC (100)
 
 No platform and service fees
