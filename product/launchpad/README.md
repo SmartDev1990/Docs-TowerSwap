@@ -31,15 +31,15 @@ TowerPad is Now LIVE on few blockchain.\
 #### Accept Payment
 
 1. Native Token (Each Chain)
-2. Tower Token
-3. USDT
+2. Tower Token (Coming Soon)
+3. USDT  (Coming Soon)
 
 Listing Fees
 
 1. BASE (0.05 ETH)
 2. ZETA (N/A)
-3. TOWER TOKEN (N/A)
-4. USDT (100)
-5. USDC (100)
+3. TOWER TOKEN (Coming Soon)
+4. USDT (Coming Soon)
+5. USDC (Coming Soon)
 
 No platform and service fees
