@@ -6,6 +6,8 @@
 
 ### [Staking](staking-pools/)
 
+### [LaunchPad](./#launchpad)
+
 ### [NFT Marketplace](nft-marketplace.md)
 
-### [TowerLabs](broken-reference)
+###
