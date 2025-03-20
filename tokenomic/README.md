@@ -16,6 +16,8 @@ Total Supply : 350,000,000 TWS
 
 Blockchain : BASE (Main Chain)
 
+Listing Price: 0,02$
+
 
 
 ### TowerSwap Token Utility
