@@ -19,6 +19,5 @@
 * [📝 Tokenomic](tokenomic/README.md)
   * [TowerSwap Token](tokenomic/towerswap-token.md)
   * [Supply and Allocations](tokenomic/supply-and-allocations.md)
-  * [Token Sale](tokenomic/token-sale.md)
 * [📆 RoadMap](roadmap.md)
 * [🧑‍🏫 Team](team.md)
