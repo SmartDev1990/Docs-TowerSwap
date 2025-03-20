@@ -20,9 +20,9 @@ So, TowerSwap Token is a Native and Utility token created specifically for the o
 
 Native token platforms
 
-In the TowerSwap platform, there are two tokens that will be used as the main token, namely the CMP Token (Native Blockchain) and the TW token as the native token platform.
+In the TowerSwap platform, there are two tokens that will be used as the main token, namely the BASE Token (Native Blockchain) and the TWS token as the native token platform.
 
-TW token will be used as
+TWS token will be used as
 
 \~ Main pair&#x20;
 
@@ -36,9 +36,9 @@ TW token will be used as
 
 
 
-**How to get TW tokens?**
+**How to get TWS tokens?**
 
-_There are several ways to get TW tokens._
+_There are several ways to get TWS tokens._
 
 By participating in token sales
 
