@@ -1,5 +1,5 @@
 ---
-description: TowerSwap. The new DeFi AMM on Caduceus Blockchain
+description: TowerSwap. The new DeFi AMM on Base L2  Blockchain
 cover: .gitbook/assets/TwitterHeader.png
 coverY: 0
 layout:
