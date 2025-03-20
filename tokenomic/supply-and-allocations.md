@@ -1,5 +1,5 @@
 ---
-description: 'Total Supply : 12.000.000 TWS'
+description: 'Total Supply : 350.000.000 TWS'
 ---
 
 # Supply and Allocations
@@ -13,6 +13,8 @@ Decimal : 18&#x20;
 Supply : 350.000.000
 
 Chain: BASE&#x20;
+
+Price: 0.02$
 
 
 
