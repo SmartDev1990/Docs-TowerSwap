@@ -6,7 +6,9 @@ Total Token for sales : 94,500,000/350,000,000 TWS
 
 * Token Sale : 94,500,000 TWS
 
-Token Price 0,04$ per TWS
+Token Price 0,01$ per TWS
+
+Listing Price: 0,02$ per TWS
 
 
 
